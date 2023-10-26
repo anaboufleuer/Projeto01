@@ -1,9 +1,19 @@
 
-.corpo-conteúdo {
+.cabecalho {
     background-color: green;
     color: aqua;
 }
-{
+.principal {
+ background-color: black;
+ color: darkred;
 
-    width: 1000px;
+}
+.rodape {
+    background-color: aquamarine;
+    color: blueviolet;
+    text-align: center;
+}
+#agroo{
+
+    width: 600px;
 }
